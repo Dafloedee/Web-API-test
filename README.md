@@ -1,3 +1,4 @@
 # Web-API-test
 
-Testing API dengan PHP untuk tugas sistem terdistribusi 
+Tugas sistem terdistribusi tahun 2019.
+mencoba API dari Cocktail.db dan mengimplementasikan pada PHP
